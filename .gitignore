@@ -187,3 +187,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/.vs
+/Example/packages
+/Example/.vs/Example/v15/Server/sqlite3
